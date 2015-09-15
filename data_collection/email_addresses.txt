@@ -1,0 +1,3 @@
+cats@arizona.edu
+dogs@arizona.edu
+poop@asu.edu
